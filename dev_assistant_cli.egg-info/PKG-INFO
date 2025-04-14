@@ -1,0 +1,31 @@
+Metadata-Version: 2.4
+Name: dev-assistant-cli
+Version: 1.0.0
+Summary: CLI assistant inspired by Hitesh Sir & Piyush Garg for structured thinking
+Author: Your Name
+Description-Content-Type: text/markdown
+Requires-Dist: openai
+Requires-Dist: python-dotenv
+Dynamic: author
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: summary
+
+# Dev Assistant CLI ðŸ¤–
+
+A developer-friendly assistant with tone styling based on Hitesh Sir or Piyush Garg. Uses step-by-step reasoning and OpenAI GPT-4o to help you solve dev problems.
+
+## ðŸ“¦ Installation
+
+```bash
+pip install .
+```
+
+## ðŸš€ Usage
+
+```bash
+dev-assistant
+```
+
+Choose your tone and start interacting!
